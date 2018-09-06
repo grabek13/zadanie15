@@ -10,3 +10,33 @@
 .contact {
     color: bisque;
 }
+#about-us {
+    background-color: cadetblue
+}
+#skills {
+    color: red;
+}
+div.d1 {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: inline-block;
+}
+div.d2 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    display: inline-block;
+}
+div.d3 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    display: inline-block;
+}
+div.d4 {
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    display: inline-block;
+}
