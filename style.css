@@ -46,3 +46,14 @@ div.d5{
     border: 10px solid green;
     background-color: blueviolet;
 }
+form {
+    font-family: serif;
+}
+
+.button {
+    width: 300px;
+    height: 40px;
+    background-color: bisque;
+    color:brown;
+}
+
