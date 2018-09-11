@@ -16,35 +16,41 @@
 #skills {
     color: red;
 }
-div.d1 {
+div {
     width: 100px;
     height: 100px;
-    background-color: aqua;
     display: inline-block;
+}
+div.d1 {
+    /*width: 100px;
+    height: 100px;*/
+    background-color: aqua;
+    
 }
 div.d2 {
-    width: 100px;
-    height: 100px;
+    /*width: 100px;
+    height: 100px;*/
     background-color: brown;
-    display: inline-block;
+    
 }
 div.d3 {
-    width: 100px;
-    height: 100px;
+    /*width: 100px;
+    height: 100px;*/
     background-color: yellow;
-    display: inline-block;
+    
 }
 div.d4 {
-    width: 100px;
-    height: 100px;
+    /*width: 100px;
+    height: 100px;*/
     background-color: greenyellow;
-    display: inline-block;
+    
 }
 div.d5{
     width: 200px;
     height: 200px;
     border: 10px solid green;
     background-color: blueviolet;
+    display: block;
 }
 form {
     font-family: serif;
